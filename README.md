@@ -1,7 +1,7 @@
+<h1 align="center">Hi 👋, I'm Faizan Mukhtar</h1>
 <div align="center">
   <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" alt="Web Developer Chilling" />
 </div>
-<h1 align="center">Hi 👋, I'm Faizan Mukhtar</h1>
 <h3 align="center">A passionate Mern Stack Developer From Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faiziicheema&label=Profile%20views&color=0e75b6&style=flat" alt="faiziicheema" /> </p>
