@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faizan Mukhtar</h1>
 <h3 align="center">A passionate Mern Stack Developer From Pakistan</h3>
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: center;width: 100vw">
   <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" />
 </div>
 
