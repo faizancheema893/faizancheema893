@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Faizan Cheema</h1>
 <h3 align="center">A passionate Full Stack Web Developer | MERN Stack Developer | Headless CMS WordPress | Wordpress Developer & Designer</h3>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" alt="Web Developer Chilling" />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=faizancheema893&label=Profile%20views&color=0e75b6&style=flat" alt="faizancheema893" /> </p>
 
